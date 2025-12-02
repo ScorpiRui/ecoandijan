@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHANNEL_ID = "YOUR_CHANNEL_ID"
+BOT_TOKEN = "8314582730:AAEhmVcAJ7fitSKrTXue22d3MYrAY_aPrag"
+CHANNEL_ID = "-1003411560221"
 
 if not BOT_TOKEN or not CHANNEL_ID:
     raise ValueError("BOT_TOKEN va CHANNEL_ID muhit o'zgaruvchilarini sozlashingiz kerak!")
